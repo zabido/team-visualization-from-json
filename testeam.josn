@@ -1,0 +1,38 @@
+{
+    "Team 1": {
+        "address": "team1@email.com",
+		"Line Manager": "John Doe",
+		"PO": "Team 1 PO",
+		"TC": "Team 1 TC",		
+        "members": [
+            "Peter Name <peter.name@email.com>",
+            "Petra Callher <petra.callher@email.com>",
+            "Bob Enter <bob.enter@email.com>",
+            "Jonh Never <john.never@email.com>",
+        ]
+    },
+	"Team 2": {
+        "address": "team2@email.com",
+		"Line Manager": "John Doe",
+		"PO": "Team 1 PO",
+		"TC": "Team 1 TC",		
+        "members": [
+            "John Name <peter.name@email.com>",
+            "Eva Callher <petra.callher@email.com>",
+            "Bob Enter <bob.enter@email.com>",
+            "Jonh Never <john.never@email.com>",
+        ]
+    },
+	"Team 3": {
+        "address": "team3@email.com",
+		"Line Manager": "Joshua Rogan",
+		"PO": "Team 3 PO",
+		"TC": "Team 2 TC",		
+        "members": [
+            "John Name <peter.name@email.com>",
+            "Eva Callher <petra.callher@email.com>",
+            "Bob Enter <bob.enter@email.com>",
+            "Jonh Never <john.never@email.com>",
+        ]
+    }
+}
